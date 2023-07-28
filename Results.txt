@@ -1,0 +1,6 @@
+Results:
+S. No. Algorithms Accuracy of voice dataset Accuracy of gait dataset
+1. XGBoost             92%                        88%
+2. Random Forest       90%                        87%
+3. k-Nearest Neighbors 85%                        81.2%
+4. Support Vector Machine 74%                     70%
